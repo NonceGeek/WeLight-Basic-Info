@@ -14,8 +14,7 @@ https://weimang.cyberemd.com/explorer
  [TODO]
 
 - **湖南工程学院**
- 
- [TODO]
+ 6a9a77fdccd2668675f9a35a47d563d3aad4703fb793ef7585653d34613d8289a2b958297c84ebf27629465ce91df215f5fc682a9ad7972f041a6319e5f3aa93
 
 - **上贸大 FISCO BCOS 兴趣小组**
  
