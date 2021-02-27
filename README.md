@@ -16,7 +16,7 @@ https://weimang.cyberemd.com/explorer
 
 - **北京林业大学**
   f0a6a757508ba3ef409c4a7e690a3c584e1780be8a420e0f3a05344d0d4abb280b58ab61a624a2a902c919dfe02df83f95df5ef2e28efb64ad9261813e9f19df
- 
+
 - **湖南工程学院**
  6a9a77fdccd2668675f9a35a47d563d3aad4703fb793ef7585653d34613d8289a2b958297c84ebf27629465ce91df215f5fc682a9ad7972f041a6319e5f3aa93
 
@@ -25,7 +25,7 @@ https://weimang.cyberemd.com/explorer
 
 - **湖州师范学院**
 
- [TODO]
+   166d4bf2ed27129524d56b64a6e8c120839ee42e1b185f7ab79b380520b23693e847539fddd5f911a87260eefa3b9a98e9010f6ffbb4fdbf16d4c7f38b0dcd32
 
 - **成都信息工程大学**
 
